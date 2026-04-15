@@ -16,7 +16,7 @@ export default function Concepto() {
   const lineWidth = useTransform(scrollYProgress, [0.15, 0.35], ['0%', '100%'])
 
   // Word-by-word reveal for the heading
-  const headingWords = 'MÁS QUE UN LOTE, UN ESTILO DE VIDA.'.split(' ')
+  const headingWords = 'MÁS QUE UNA AGENCIA, UN ESTILO DE VIDA.'.split(' ')
 
   return (
     <section
