@@ -21,7 +21,7 @@ export default function Navbar() {
       }`}
     >
       {/* Logo */}
-      <a href="#" className="font-oswald text-lg md:text-xl font-bold tracking-[0.25em] uppercase text-white">
+      <a href="https://www.pgestrategias.com/" target="_blank" rel="noopener noreferrer" className="font-oswald text-lg md:text-xl font-bold tracking-[0.25em] uppercase text-white">
         PG Estrategias
       </a>
 
